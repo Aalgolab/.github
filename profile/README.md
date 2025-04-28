@@ -26,8 +26,3 @@ We ensure that Aalgola remains vibrant, accessible, and continuously improving.
 
 We believe Aalgola should always remain **free, open, and evolving**.  
 At Aalgolab, we are the caretakers of the language and drivers of innovation within its ecosystem.
-
----
-
-> **Note:**  
-> The Aalgola logo above uses the special "Aalfons" font for the first character, representing "Aa" as a unique symbol.
